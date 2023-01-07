@@ -1,0 +1,10 @@
+name = "so"
+compatibility_date = "2022-08-05"
+account_id = "d9c4a171c4a0d0a8e6f8204ae9ba0638"
+
+main = "./dist/server.js"
+
+# route = "start.solidjs.com/*"
+
+[site]
+bucket = "./dist/public"
